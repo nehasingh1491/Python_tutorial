@@ -1,4 +1,4 @@
-# Assingment
+# Assingment-1
 
 # 1. Linker.java--> private void computeIf(int first, int second, int last)
 ![Linker.computeIf](/images/Linker.computeIf.svg)
